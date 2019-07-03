@@ -13,7 +13,7 @@ body {
 
 .orange-bg {
   color: #fff;
-  background: url(bg.png);
+  background: url(/bg.png);
   background-size: cover;
 }
 
